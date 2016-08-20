@@ -1,0 +1,253 @@
+Change Log for NetDISK Power OS Version 3.0.226
+Testing  	2010-10-06
+Released 	2010-10-06
+
+1.  기본 동작 처리 기능 구현 95% 완료 버전 
+
+2. Error 처리 및 일부 미구현된 기능 있습니다.
+
+3. 이미 알려지 에러 사항들은 내부적으로 리포팅해서 보내드립니다. (검증시 참조 하십시오)  첨부 xls 파일을 참조하시면 됩니다. 
+
+4. 이번버전도 boot로 업그레이드 하는 이유 : 기존 Admin Password recovery 관련해서 사용자 명령어 실행없이 recovery 모드로만 진입하면 
+    자동으로 password로 리커버리 되게 처리하였습니다. 
+    grub kernel 옵션중에vga=normal 로 진입시에 recovery 모드로 판단하여, 자동으로 passwd_reset을 실행하게 처리 하였습니다. 
+
+
+************************************************
+Change Log for NetDISK Power OS Version 3.0.231
+Testing  	2010-10-11
+Released 	NA
+
+*** View the entire change log for all versions here 
+	CHANGE_ALL.KO.txt, 
+	CHANGE_ALL.EN.txt, 
+	CHANGE_ALL.DE.txt
+
+KO----------------------------------
+Interim version. Will be dropped. 
+
+
+
+*****************************************************
+Change Log for NetDISK Power OS Version 3.0.234.2113
+Testing  	2010-10-18
+Released 	NA
+
+새로적용한 langdef_en.h 랑 langdef_kr.h 버전 보내드립니다. (첨부 압축파일안에 langdef_en.h, langdef_kr.h) 파일이  있습니다. 
+
+파일 수정시에 가능하시면 utf 헤더가 들어가지 않도록 
+Windows에서 Ultraeidt로 작업을 해서 보내주셨으면 합니다. 
+Mac이나 이상한 edit 에서 작업하면 파일 헤더에 utf 코드가 입력되어서 컴파일이 안되는 경우가 있습니다. 
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.247-2127
+Testing  	2010-10-22
+Released 	NA
+
+- Internal  기능 버그 패치 버전 
+이버전부터 기능테스트는 시작하시면 됩니다. 
+
+
+****************************************************
+v3.0.252-2132
+Testing  	2010-10-22
+Released 	NA
+
+- Internal  
+
+
+****************************************************
+v3.0.255-2135
+
+펌웨어 255 버전 반영된 내용은 ppt 참조하세요.
+
+1. langdef 26일 수정버전 보내드립니다. 일부 라인 추가 되었습니다.
+ > 데이비드씨가 별도로 LANGDEF를 보내주시는거는 버전이 맞지 않을수 있습니다.
+    그래서 최종반영된 LANGDEF를 가지고 이창무책임이 정리를 하신후에 데이비이드씨한데 다시 REVIEW를 하시고,  
+    최종본을 저희한테 보내주셔야 버전이 맞습니다. 
+
+2. ppt 문서 수정 반영 사항 내용 보내드립니다. 
+
+3. Q.C Report 를 보내드리니, 현재 기능적으로 제대로 동작되지 않거나, 입력시 오류나는 부분은 xls에 정리해서
+오늘 빠른 시간안에 보내주셨으면 합니다. 현재 ui 패턴보다는 기능성 오동작이나 문제가 없는지 확인하고 패치하는게
+이번주 해야할 급선무입니다. Q.C에 문제있는 사항은 늦더라도 오늘 오후 3-4시정도까지는 완전히 정리해서 보내주셨으면 합니다.
+기능적으로 제대로 되는지 클라이언트 연동 테스트까지 함께 한후에 보내주셨으면 합니다.
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.256-2136
+Testing  	2010-10-26
+Released 	--
+
+- Internal  
+
+
+
+
+Change Log for NetDISK Power OS Version 3.0.226
+Testing  	2010-10-06
+Released 	2010-10-06
+
+1. The default implementation of processing 95% complete version of the behavior
+
+2. Error handling and some features may miguhyeondoen.
+
+3. Error reporting information already known by the sending internally. (See for verification), please refer to xls file is attached.
+
+4. This version is also reason to upgrade to boot: Existing Admin Password recovery related only to the user to enter commands without having to run the recovery mode
+    Has to be handled automatically as password recovery.
+    grub kernel option vga = normal during the recovery mode at the entry to the discretion, has handled automatically run passwd_reset.
+
+
+***********************************************
+Change Log for NetDISK Power OS Version 3.0.231
+Testing  	2010-10-11
+Released 	NA
+
+EN----------------------------------
+Interim version. Will be dropped. 
+
+
+
+*****************************************************
+Change Log for NetDISK Power OS Version 3.0.234.2113
+Testing  	2010-10-18
+Released 	NA
+
+All current features should be avaialble
+1. Double-check/Review the English of the title headings on the menu of the system. (1 day)
+2. Review the User Interface design of R3.0 and debug the R3.0 system. Please, provide your comments to us. (4 days)
+
+Langdef_en.h recycled version of Lang langdef_kr.h new enemy will be sent. (Attached in zip file langdef_en.h, langdef_kr.h) files.
+
+Utf header file modification time if you can not enter the
+By working with Windows in the Ultraeidt would be appreciated.
+If you work in a Mac or a strange edit the file headers becoming utf enter the code may be less than the compilation.
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.247-2127
+Testing  	2010-10-22
+Released 	NA
+
+- Internal features bug-fixes version
+If I start from the functional test driver is a.
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.252-2132
+Testing  	2010-10-22
+Released 	NA
+
+- Internal 
+
+
+
+****************************************************
+v3.0.255-2135
+
+255 version of the firmware that reflect information, please see the ppt.
+
+1. revision langdef 26 version will be sent. Some lines have been added.
+ > David, Mr. separately send LANGDEF can not help really is out of the version.
+    I have LANGDEF choejongbanyoungdoen hasinhu Yichang to clean up irresponsible 
+    Davey REVIEW upgrade again to her right and, Please send to us the final version is correct.
+
+2. ppt document revision reflects the information will be sent information.
+
+3. QC Report will send, as the current feature is not working properly, or typographical error, or by order on the part xls
+Today, sooner or later would be appreciated. Ui functionality than the current pattern, and patch-operation and make sure that the problem haneunge
+To do this week is imperative. The information on QC issues if the late afternoon, completely clean up until 3-4 o'clock and would be appreciated.
+Is functionally properly with the client until after the test for linkage would be appreciated.
+
+***************************************************
+
+Change Log for NetDISK Power OS Version 3.0.256-2136
+Testing  	2010-10-26
+Released 	NA
+
+- Internal 
+
+
+
+
+
+Change Log for NetDISK Power OS Version 3.0.226
+Testing  	2010-10-06
+Released 	2010-10-06
+
+1. 95% vollständige Umsetzung des Standard-Aktion Handhabung Version
+
+2. Fehlerbehandlung und einige Funktionen miguhyeondoen.
+
+3. Error Reporting-Informationen bereits durch die Übersendung intern bekannt. (Siehe zur Verifizierung) entnehmen Sie bitte xls-Datei beigefügt.
+
+4. Diese Version ist auch Grund zu booten Upgrade: Bestehende Admin Password Recovery Sie nur für den Benutzer zur Eingabe von Befehlen, ohne den Recovery-Modus laufen
+    Muss automatisch als Passwort-Wiederherstellung behandelt werden.
+    grub Kernel-Option vga = normal während der Recovery-Modus bei der Einreise in das Ermessen hat gehandhabt automatisch ausgeführt passwd_reset.
+
+***********************************************
+Change Log for NetDISK Power OS Version 3.0.231
+Testing  	2010-10-11
+Released 	NA
+
+Interim version. Will be dropped. 
+
+
+*****************************************************
+Change Log for NetDISK Power OS Version 3.0.234.2113
+Testing  	2010-10-18
+Released 	NA
+
+Langdef_en.h recycelt Version von Lang langdef_kr.h neuen Feind geschickt wird. (Befestigung in Zip-Datei langdef_en.h, langdef_kr.h) Dateien.
+
+UTF-Header-Datei Änderung der Zeit, wenn Sie können nicht in die
+Durch die Arbeit mit Windows in der Ultraeidt wäre willkommen.
+Wenn Sie in einem Mac oder einem fremden bearbeiten Sie die Datei-Header zu utf den Code eingeben kann kleiner sein als die Zusammenstellung.
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.247-2127
+Testing  	2010-10-22
+Released 	NA
+
+DE----------------------------------
+- Interne Features Bugfixes Version
+Wenn ich von der funktionalen Testfahrer Start ist a.
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.0.252-2132
+Testing  	2010-10-22
+Released 	NA
+
+- Interne 
+
+****************************************************
+v3.0.255-2135
+
+255 Version der Firmware, die Informationen widerspiegeln, finden Sie im ppt.
+
+1. Revision langdef 26 Version gesendet werden soll. Einige Linien wurden hinzugefügt.
+ > David, Herr separat senden LANGDEF kann nicht wirklich helfen, ist aus der Fassung.
+    Ich habe Yichang LANGDEF hasinhu Verantwortungslosigkeit an einem Tag choejongbanyoungdoen durch regen und aktualisieren ihr Recht auf Weiterverwendung REVIEW,
+    Bitte senden Sie uns die endgültige Version ist korrekt.
+
+2. ppt Dokument Revision spiegelt die Daten werden Informationen gesendet werden.
+
+3. QC-Bericht senden, da der derzeitige Funktion nicht ordnungsgemäß funktioniert, oder typografische Fehler oder durch Bestellung seitens xls
+Heute würde man früher oder später gewürdigt werden. Ui Funktionalität als das aktuelle Muster und Patch-Betrieb und stellen Sie sicher, dass das Problem haneunge
+Dazu diese Woche ist ein Muss. Die Informationen auf QC Fragen, wenn am späten Nachmittag, völlig sauber bis 3.00 bis 04.00 Uhr und wird gebeten.
+Ist funktional richtig mit dem Kunden erst nach dem Test für die Verknüpfung wäre willkommen.
+
+****************************************************
+
+Change Log for NetDISK Power OS Version 3.0.256-2136
+Testing  	2010-10-26
+Released 	NA
+
+- Interne 
+
+
+

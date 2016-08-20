@@ -1,0 +1,45 @@
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.2
+Testing  	2010-10-29
+Released 	2010-11-05
+
+- 첫째 생산 테스트와 함께 출시
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.4-2144
+Testing  	2010-11-11
+Released 	2010-12-03
+
+-  영어 업데이트
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.6-2151
+Testing  	2011-01-28
+Released 	2011-03-7
+
+KO----------------------------------
+- 웹 관리자에 ◊ 지원 독일어 언어
+- 오류 코드 설명 추가
+-CTorrent 명령 기반의 유틸리티 추가
+
+
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.7-2152
+Testing  	2011-03-07
+Released 	
+
+- NDAS 파티션 30 클라이언트를 허용
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.8-2153
+Testing  	2011-03-30
+Released 	
+
+- 업데이트 lvm은 3TB 드라이브를 활용하는
+
+

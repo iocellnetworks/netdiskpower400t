@@ -1,0 +1,50 @@
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.2
+Testing  	2010-10-29
+Released 	2010-11-05
+
+- Released with first production test
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.4-2144
+Testing  	2010-11-11
+Released 	2010-12-03
+
+*** View the entire change log for all versions here 
+	CHANGE_ALL.KO.txt, 
+	CHANGE_ALL.EN.txt, 
+	CHANGE_ALL.DE.txt
+
+- English Language updated
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.6-2151
+Testing  	2011-01-28
+Released 	2011-03-7
+
+- Support german language on web manager
+- Add Error code descriptions
+- Add CTorrent command line based utility
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.7-2152
+Testing  	2011-03-07
+Released 	
+
+- Allow 30 clients for the NDAS partition
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.8-2153
+Testing  	2011-03-30
+Released 	
+
+- Update lvm to utilize 3TB drives
+
+
+
+
+

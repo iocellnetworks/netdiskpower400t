@@ -1,0 +1,19 @@
+Change Log for NetDISK Power OS Version 3.1.6
+Testing  	2010-11-11
+Released 	2010-12-03
+
+KO----------------------------------
+- 웹 관리자에 ◊ 지원 독일어 언어
+- 오류 코드 설명 추가
+-CTorrent 명령 기반의 유틸리티 추가
+
+EN----------------------------------
+- Support german language on web manager
+- Add Error code descriptions
+- Add CTorrent command line based utility
+
+DE----------------------------------
+- Support Deutsch Sprache auf Web-Manager
+- Hinzugefügt Fehlercode Beschreibungen
+- Hinzugefügt ctorrent Befehl basiertes Dienstprogramm
+

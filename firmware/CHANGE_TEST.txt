@@ -1,0 +1,17 @@
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.6-2151
+Testing  	2011-01-28
+Released 	
+
+
+KO----------------------------------
+- 업데이트 lvm은 3TB 드라이브를 활용하는
+
+
+EN----------------------------------
+- Update lvm to utilize 3TB drives
+
+
+DE----------------------------------
+- Update LVM zu nutzen 3TB Laufwerke
+

@@ -1,0 +1,48 @@
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.2
+Testing  	2010-10-29
+Released 	2010-11-05
+
+- Released with first production test
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.4-2144
+Testing  	2010-11-11
+Released 	2010-12-03
+
+*** View the entire change log for all versions here 
+	CHANGE_ALL.KO.txt, 
+	CHANGE_ALL.EN.txt, 
+	CHANGE_ALL.DE.txt
+
+- Englisch Language aktualisiert
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.6-2151
+Testing  	2011-01-28
+Released 	2011-03-7
+
+- Support Deutsch Sprache auf Web-Manager
+- Hinzugefügt Fehlercode Beschreibungen
+- Hinzugefügt ctorrent Befehl basiertes Dienstprogramm
+
+
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.7-2152
+Testing  	2011-03-07
+Released 	
+
+- Nach 30 Clients für das NDAS-Partition
+
+
+****************************************************
+Change Log for NetDISK Power OS Version 3.1.8-2153
+Testing  	2011-03-30
+Released 	
+
+- Update LVM zu nutzen 3TB Laufwerke
+
+

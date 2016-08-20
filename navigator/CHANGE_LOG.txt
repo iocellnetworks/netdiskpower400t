@@ -1,0 +1,18 @@
+Change Log for NetDISK Power Navigator 
+
+v1023 Released: 2010-10-23
+
+KO------------------------------------------
+상태창에 자주 나오는 Check Network Cable ?은 ... Finding... 으로 변경하였습니다. 
+Check Network Cable ?    => Finding... 
+setup_1023.msi 파일이 최종 설치 프로그램입니다. 
+
+EN------------------------------------------
+Frequently appear in the status area Check Network Cable? The ... Finding ... Has changed.
+Check Network Cable? => Finding ...
+setup_1023.msi file is the final setup.
+
+DE------------------------------------------
+Häufig im Statusbereich Überprüfen Sie das Netzwerkkabel erscheinen? Das ... Suchen ... Hat sich geändert.
+Überprüfen Sie das Netzwerkkabel? => Suchen ...
+setup_1023.msi Datei ist die letzte Einstellung.
